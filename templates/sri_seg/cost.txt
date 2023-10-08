@@ -1,0 +1,3 @@
+templateRegistration 5 -0.821922
+atlasRegistrationLevel0 12 -0.371754
+atlasRegistrationLevel1 12 -0.466231
